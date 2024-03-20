@@ -1,0 +1,15 @@
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main() {
+	cout << "Hello, World!" << endl;
+	
+	_getch();
+
+	return EXIT_SUCCESS;
+	
+}
+	
+
